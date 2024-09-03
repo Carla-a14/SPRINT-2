@@ -10,3 +10,5 @@ la compra de estos productos y orientada a apoyar a los pequeños comerciantes.
 
 Teniendo en cuenta la seguridad de la informacion de datos de los usuarios manteniedo todas las normas y 
 estandares de seguridad (contraseñas) ademas facilitar la forma de pago con llamadas API con (PayPal).
+
+![image](https://github.com/user-attachments/assets/c5bea6d5-84a7-4dba-bde6-96dc0d4255cc)
