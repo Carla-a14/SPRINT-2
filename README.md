@@ -2,7 +2,8 @@
 Entregables del reto 2 - sprint 2
 
 Es un documento de pdf donde explica o demuestra la creacion de la plataforma.
-la creacion de la plataforma se basa a un reto de que durante la pandemia rober y ruben
+
+La creacion de la plataforma se basa a un reto de que durante la pandemia, Rober y Ruben
 se dieron cuenta que la necesidad de acceder a productos de primera necesidad sin salir de casa
 era muy complicado ya que la mayoria de personas no querian salir por miedo a infectarse,
 entonces tuvieron la idea de crear una plataforma e-comerce destinada a facilitar a sus usuarios 
