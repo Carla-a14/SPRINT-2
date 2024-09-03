@@ -12,3 +12,6 @@ Teniendo en cuenta la seguridad de la informacion de datos de los usuarios mante
 estandares de seguridad (contraseñas) ademas facilitar la forma de pago con llamadas API con (PayPal).
 
 ![image](https://github.com/user-attachments/assets/c5bea6d5-84a7-4dba-bde6-96dc0d4255cc)
+
+
+![image](https://github.com/user-attachments/assets/22ba44e4-02ff-4b7f-a72e-119ac4dff1cc)
